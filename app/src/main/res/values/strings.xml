@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FuzzyDistance</string>
+    <string name="action_settings">Settings</string>
+    <string name="define_numbers">Визначити А, В та х</string>
+    <string name="number_A">A: </string>
+    <string name="number_B">B: </string>
+    <string name="number_C">C: </string>
+    <string name="number_x">x = </string>
+    <string name="result">РЕЗУЛЬТАТ</string>
+    <string name="input_A">Введіть А:</string>
+    <string name="input_B">Введіть B:</string>
+    <string name="input_x">Введіть x:</string>
+    <string name="left_border">Введіть x:</string>
+    <string name="max_value">Введіть x:</string>
+    <string name="cancel">Відмінити</string>
+    <string name="calc">Розрахувати</string>
+    <string name="clear">Очистити</string>
+    <string name="default_result_area">Необхідно визначити нечіткі числа А та В</string>
+    <string name="result_C">РЕЗУЛЬТАТ. С: </string>
+    <string name="step_count">Кількість кроків: </string>
+</resources>
